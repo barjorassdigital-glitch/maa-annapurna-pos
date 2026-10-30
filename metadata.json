@@ -1,0 +1,6 @@
+{
+  "name": "Maa Annapurna Hotel",
+  "description": "Professional offline POS billing application for Maa Annapurna Hotel with Bluetooth & built-in thermal printing, KOT, Dine-In, Takeaway, and Token Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
